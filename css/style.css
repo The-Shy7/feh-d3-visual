@@ -1,0 +1,57 @@
+#idPage {
+
+}
+
+#idHeader {
+	text-align: center;
+	color: black;
+	min-height: 100px;
+	max-height: 100px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#idContent {
+	min-height: 600px;
+	margin: 20px;
+	background-color: white;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#idFooter {
+	max-height: 50px;
+	text-align: center;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+input.checkbox {
+	margin-left: 10px;
+	margin-right: 10px;
+	vertical-align: middle;
+}
+
+span.label {
+	padding-right: 20px;
+}
+
+div.tooltip {
+	position: absolute;
+	text-align: center;
+	max-width: 200px;
+	min-height: 25px;
+	padding: 10px;
+	background: lightsteelblue;
+	font: 12px;
+}
+
+.bar {
+	fill: purple;
+}
+
+.axisHeading {
+	font-size: 18px;
+	fill: black;
+}
